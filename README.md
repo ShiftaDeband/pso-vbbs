@@ -44,9 +44,9 @@ Further information about the exact day that it was posted could be accomplished
 
 ## Disclaimers
 
-As the original websites are no longer being available, the following disclaimers are provided:
+As the original websites are no longer online, the following disclaimers are provided:
 
-This project is not associated with SEGA or SONIC TEAM in any way, shape or form. This is a fan-run repository trying to archive a little bit of history from the early 2000s. Images are copyright of SONICTEAM/SEGA as noted in each screenshot. The [original Terms of Use](https://web.archive.org/web/20040619000922if_/http://www.sonicteam.com/pso/minhiro2/nb.html) can be found on an archived page from the original VBBS.
+This project is not associated with SEGA or SONIC TEAM in any way, shape or form. This is a fan-run repository trying to archive a little bit of history from the early 2000s. Images are copyright of SONICTEAM/SEGA as noted in each screenshot. The [original Terms of Use can be found on an archived page from the original VBBS](https://web.archive.org/web/20040619000922if_/http://www.sonicteam.com/pso/minhiro2/nb.html).
 
 This archive is intended solely for non-commercial, educational, and personal use. No part of this content should be used for commercial purposes without the proper rights and permissions from the respective copyright holders.
 
