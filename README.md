@@ -41,3 +41,19 @@ The GameCube Visual BBS date information comes from the folder structure. For ex
 - Month: 03
 
 Further information about the exact day that it was posted could be accomplished by scraping the Visual BBS for this information, but since many of the pages are missing, it would not be possible for all posts.
+
+### Disclaimers
+
+As the original websites are no longer being available, the following disclaimers are provided:
+
+This project is not associated with SEGA or SONIC TEAM in any way, shape or form. This is a fan-run repository trying to archive a little bit of history from the early 2000s. Images are copyright of SONICTEAM/SEGA as noted in each screenshot. The [original Terms of Use](https://web.archive.org/web/20040619000922if_/http://www.sonicteam.com/pso/minhiro2/nb.html) can be found on an archived page from the original VBBS.
+
+This archive is intended solely for non-commercial, educational, and personal use. No part of this content should be used for commercial purposes without the proper rights and permissions from the respective copyright holders.
+
+All archived material is provided "as-is" without any warranties—express or implied. The maintainers of this repository are not liable for any errors or omissions, or for any consequences arising from the use of the content.
+
+Some materials featured here may be included under the doctrine of fair use for purposes such as commentary, criticism, research, or historical preservation. This inclusion is not intended to infringe upon the rights of the original copyright holders.
+
+All trademarks, logos, and service marks belong to their respective owners.
+
+Thank you to all who originally contributed to the VBBS all those years ago.
