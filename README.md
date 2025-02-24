@@ -42,7 +42,7 @@ The GameCube Visual BBS date information comes from the folder structure. For ex
 
 Further information about the exact day that it was posted could be accomplished by scraping the Visual BBS for this information, but since many of the pages are missing, it would not be possible for all posts.
 
-### Disclaimers
+## Disclaimers
 
 As the original websites are no longer being available, the following disclaimers are provided:
 
